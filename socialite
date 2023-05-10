@@ -1,0 +1,136 @@
+{
+  "idName": "Josephine Williams",
+  "totalFriends": "3,451",
+  "livesInLocation": "Chittagong, Bangladesh",
+  "fromLocation": "Dhaka, Bangladesh",
+  "relationshipStatus": "In A Relationship",
+  "followedBy": "7,250",
+  "groupsJoined": "230",
+  "friends": [
+    {
+      "id": 1,
+      "friendsIdName": "James Lewis",
+      "friendsIdFollower": "843K"
+    },
+    {
+      "id": 2,
+      "friendsIdName": "Monroe Parker",
+      "friendsIdFollower": "413K"
+    },
+    {
+      "id": 3,
+      "friendsIdName": "Martin Gray",
+      "friendsIdFollower": "123K"
+    },
+    {
+      "id": 4,
+      "friendsIdName": "Alex Michael",
+      "friendsIdFollower": "425K"
+    },
+    {
+      "id": 5,
+      "friendsIdName": "Jesse Stevens",
+      "friendsIdFollower": "127K"
+    },
+    {
+      "id": 6,
+      "friendsIdName": "Erica Jones",
+      "friendsIdFollower": "521K"
+    },
+    {
+      "id": 7,
+      "friendsIdName": "James Lewis",
+      "friendsIdFollower": "121K"
+    },
+    {
+      "id": 8,
+      "friendsIdName": "Monroe Parker",
+      "friendsIdFollower": "122K"
+    }
+    
+  ],
+  "pages": [
+      {
+        "id": 1,
+        "pagesName": "John Michael",
+        "pagesIdFollower": "411K"
+      },
+      {
+        "id": 2,
+        "pagesName": "Alex Dolgove",
+        "pagesIdFollower": "333K"
+      },
+      {
+        "id": 3,
+        "pagesName": "Dennis Han",
+        "pagesIdFollower": "373K"
+      },
+      {
+        "id": 4,
+        "pagesName": "Monroe Parker",
+        "pagesIdFollower": "123K"
+      },
+      {
+        "id": 5,
+        "pagesName": "Erica Jones",
+        "pagesIdFollower": "103K"
+      },
+      {
+        "id": 6,
+        "pagesName": "Stella Johnson",
+        "pagesIdFollower": "411K"
+      },
+      {
+        "id": 7,
+        "pagesName": "John Michael",
+        "pagesIdFollower": "222K"
+      },
+      {
+        "id": 8,
+        "pagesName": "Alex Dolgove",
+        "pagesIdFollower": "313K"
+      }
+   ],
+  "groups": [
+      {
+        "id": 1,
+        "groupsName": "Graphic Design",
+        "mututalFriendInGroups": "53"
+      },
+      {
+        "id": 2,
+        "groupsName": "Mountain Riders",
+        "mututalFriendInGroups": "12"
+      },
+      {
+        "id": 3,
+        "groupsName": "Coffee Addicts",
+        "mututalFriendInGroups": "44"
+      },
+      {
+        "id": 4,
+        "groupsName": "Property Rent",
+        "mututalFriendInGroups": "45"
+      },
+      {
+        "id": 5,
+        "groupsName": "Architecture",
+        "mututalFriendInGroups": "25"
+      },
+      {
+        "id": 6,
+        "groupsName": "Graphic Design",
+        "mututalFriendInGroups": "74"
+      },
+      {
+        "id": 7,
+        "groupsName": "Mountain Riders",
+        "mututalFriendInGroups": "12"
+      },
+      {
+        "id": 8,
+        "groupsName": "Coffee Addicts",
+        "mututalFriendInGroups": "42"
+      }
+   ]
+}
