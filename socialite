@@ -142,7 +142,7 @@
         "likedMutual": "Bruce Wayne",
         "comments": [
           {
-            id: 1,
+            "id": 1,
             "personName": "Clarke Kent",
             "comment": "It's a beautiful picture!"
           },
