@@ -194,12 +194,12 @@
     "likedMutual": "John Stewart",
     "comments": [
       {
-        id: 1,
+        "id": 1,
         "personName": "Hal Jordan",
         "comment": "In ut odio libero vulputate"
       },
       {
-        id: 1,
+        "id": 1,
         "personName": "Lex Luthor",
         "comment": "sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. David !"
       }
