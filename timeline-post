@@ -10,7 +10,8 @@
       {
         "id": 1,
         "personName": "Clarke Kent",
-        "comment": "It's a beautiful picture!"
+        "comment": "It's a beautiful picture!",
+        "commentTime": "5min"
       }
     ]
   },
@@ -25,27 +26,32 @@
       {
         "id": 1,
         "personName": "Hal Jordan",
-        "comment": "In ut odio libero vulputate"
+        "comment": "In ut odio libero vulputate",
+        "commentTime": "1Hrs"
       },
       {
         "id": 2,
         "personName": "Barry Allen",
-        "comment": "sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. David !"
+        "comment": "sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. David !",
+        "commentTime": "2Hrs"
       },
       {
         "id": 3,
         "personName": "Jay Garrick",
-        "comment": "This is amazing!"
+        "comment": "This is amazing!",
+        "commentTime": "2Hrs"
       },
       {
         "id": 4,
         "personName": "Andrew Tate",
-        "comment": "This is absolutely stunning!"
+        "comment": "This is absolutely stunning!",
+        "commentTime": "3Hrs"
       },
       {
         "id": 5,
         "personName": "Joaquin Phoenix",
-        "comment": "Best song ever!"
+        "comment": "Best song ever!",
+        "commentTime": "6Hrs"
       }
     ]
   },
@@ -60,19 +66,21 @@
       {
         "id": 1,
         "personName": "Selina Kyle",
-        "comment": "In ut odio libero vulputate"
+        "comment": "In ut odio libero vulputate",
+        "commentTime": "8Hrs"
       },
       {
-        "id": 1,
+        "id": 2,
         "personName": "Billy Batson",
-        "comment": "sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. David !"
+        "comment": "sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. David !",
+        "commentTime": "9Hrs"
       }
     ]
   },
   {
     "id": 4,
-    "postTime": 3,
-    "postTimeFormat": "D",
+    "postTime": 2,
+    "postTimeFormat": "d",
     "caption": "",
     "liked": 121,
     "likedMutual": "John Stewart",
@@ -80,12 +88,14 @@
       {
         "id": 1,
         "personName": "Hal Jordan",
-        "comment": "In ut odio libero vulputate"
+        "comment": "In ut odio libero vulputate",
+        "commentTime": "2d"
       },
       {
         "id": 1,
         "personName": "Lex Luthor",
-        "comment": "sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. David !"
+        "comment": "sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. David !",
+        "commentTime": "1d"
       }
     ]
   }
