@@ -35,18 +35,18 @@
       {
         "id": 3,
         "personName": "Jay Garrick",
-        "comment": "This is amazing!"
+        "comment": "This is amazing"
       },
       {
         "id": 4,
         "personName": "Andrew Tate",
-        "comment": "This is absolutely stunning!"
+        "comment": "This is absolutely stunning"
       },
       {
         "id": 5,
         "personName": "Joaquin Phoenix",
-        "comment": "Best song ever!"
-      },
+        "comment": "Best song ever"
+      }
     ]
   },
   {
