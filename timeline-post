@@ -1,9 +1,10 @@
 [
   {
     "id": 1,
-    "postTime": "9m",
+    "postTime": 9,
+    "postTimeFormat": "min",
     "caption": "",
-    "liked": "13",
+    "liked": 13,
     "likedMutual": "Bruce Wayne",
     "comments": [
       {
@@ -15,7 +16,8 @@
   },
   {
     "id": 2,
-    "postTime": "7Hrs",
+    "postTime": 6,
+    "postTimeFormat": "Hrs",
     "caption": "",
     "liked": "71",
     "likedMutual": "Diana Prince",
@@ -34,9 +36,10 @@
   },
   {
     "id": 3,
-    "postTime": "7Hrs",
+    "postTime": 9,
+    "postTimeFormat": "Hrs",
     "caption": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim laoreet dolore magna aliquam erat volutpat",
-    "liked": "71",
+    "liked": 71,
     "likedMutual": "Lois Lane",
     "comments": [
       {
@@ -53,9 +56,10 @@
   },
   {
     "id": 4,
-    "postTime": "3D",
+    "postTime": 3,
+    "postTimeFormat": "D",
     "caption": "",
-    "liked": "121",
+    "liked": 121,
     "likedMutual": "John Stewart",
     "comments": [
       {
