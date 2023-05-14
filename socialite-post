@@ -7,7 +7,7 @@
 "postTime": 9,
 "postTimeFormat": "min",
 "caption": "",
-"picture": "https://www.linkpicture.com/q/avatar-lg-4.jpg",
+"picture": [{"https://www.linkpicture.com/q/avatar-lg-4.jpg"}],
 "liked": 13,
 "likedMutual": "Bruce Wayne",
 "comments": [
@@ -27,7 +27,11 @@
 "postTime": 6,
 "postTimeFormat": "Hrs",
 "caption": "",
-"picture": "https://www.linkpicture.com/q/avatar-lg-4.jpg",
+"picture": [
+  {"https://www.linkpicture.com/q/avatar-lg-4.jpg"}, 
+  {"https://www.linkpicture.com/q/avatar-lg-4.jpg"}, 
+  {"https://www.linkpicture.com/q/avatar-lg-4.jpg"}
+ ],
 "liked": "71",
 "likedMutual": "Diana Prince",
 "comments": [
@@ -96,7 +100,13 @@
 "postTime": 2,
 "postTimeFormat": "d",
 "caption": "",
-"picture": "https://www.linkpicture.com/q/avatar-lg-4.jpg",
+"picture": [
+  {"https://www.linkpicture.com/q/avatar-lg-4.jpg"},
+  {"https://www.linkpicture.com/q/avatar-lg-4.jpg"},
+  {"https://www.linkpicture.com/q/avatar-lg-4.jpg"},
+  {"https://www.linkpicture.com/q/avatar-lg-4.jpg"},
+  {"https://www.linkpicture.com/q/avatar-lg-4.jpg"}
+ ],
 "liked": 121,
 "likedMutual": "John Stewart",
 "comments": [
