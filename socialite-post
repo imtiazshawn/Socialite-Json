@@ -129,11 +129,12 @@
     "username": "Eric Johnson",
     "mutual": "Alexander Johnson",
     "mutualFriends": 9,
-    "postTime": "2023-05-10T12:00:00Z",
+    "postTime": 5,
+    "postTimeFormat": "d",
     "caption": "A beautiful day at the beach!",
     "pictures": [
-      "https://www.linkpicture.com/q/beach1.jpg",
-      "https://www.linkpicture.com/q/beach2.jpg"
+      "https://thumbs.dreamstime.com/b/sunrise-over-beach-cancun-40065727.jpg",
+      "https://thumbs.dreamstime.com/b/beach-sea-18378306.jpg"
     ],
     "likes": 13,
     "likedMutual": "Clark Kent",
