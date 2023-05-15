@@ -132,7 +132,7 @@
     "postTime": 5,
     "postTimeFormat": "d",
     "caption": "A beautiful day at the beach!",
-    "pictures": [
+    "picture": [
       "https://thumbs.dreamstime.com/b/sunrise-over-beach-cancun-40065727.jpg",
       "https://thumbs.dreamstime.com/b/beach-sea-18378306.jpg"
     ],
