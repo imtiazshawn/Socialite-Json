@@ -1,0 +1,125 @@
+{
+  "groupSuggestions": [
+    {
+      "groupName": "Graphic Design",
+      "members": "98k",
+      "perDayPost": 16,
+      "mutualFriend": "Johnson",
+      "friendsJoined": 5
+    },
+    {
+      "groupName": "Delicious Foods",
+      "members": "21K",
+      "perDayPost": 17,
+      "mutualFriend": "Juwayriya",
+      "friendsJoined": 7
+    },
+    {
+      "groupName": "Wedding Ideas",
+      "members": "1.7K",
+      "perDayPost": 12,
+      "mutualFriend": "Dolgove",
+      "friendsJoined": 2
+    },
+    {
+      "groupName": "Architecture",
+      "members": "102K",
+      "perDayPost": 21,
+      "mutualFriend": "Alex",
+      "friendsJoined": 25
+    },
+    {
+      "groupName": "Nature Lovers",
+      "members": "324k",
+      "perDayPost": 31,
+      "mutualFriend": "Jahid",
+      "friendsJoined": 51
+    },
+  ],
+  "yourGroups": [
+    {
+      "groupsName": "Graphic Design",
+      "members": "98K"
+    },
+    {
+      "groupsName": "Mountain Riders",
+      "members": "45K"
+    },
+    {
+      "groupsName": "Coffee Addicts",
+      "members": "51K"
+    },
+    {
+      "groupsName": "Bangladesh Natural Beauty",
+      "members": "98K"
+    },
+    {
+      "groupsName": "Property Rent",
+      "members": "2.1K"
+    },
+    {
+      "groupsName": "Architecture",
+      "members": "22K"
+    },
+    {
+      "groupsName": "Chittagong Club",
+      "members": "21K"
+    },
+    {
+      "groupsName": "JavaScript Programmer",
+      "members": "12K"
+    },
+    {
+      "groupsName": "Web Developer Community",
+      "members": "22K"
+    },
+    {
+      "groupsName": "Vue JS Community",
+      "members": "942"
+    }
+  ],
+  suggestions: [
+    {
+      "groupsName": "Web Developer Community of Bangladesh",
+      "members": "22K",
+      "mutualFriends": 9
+    },
+    {
+      "groupsName": "Vue JS Community of Bangladesh",
+      "members": "1.1K",
+      "mutualFriends": 2
+    },
+    {
+      "groupsName": "React JS Bangladesh",
+      "members": "3.2K",
+      "mutualFriends": 6
+    },
+    {
+      "groupsName": "Digital Marketer",
+      "members": "2.6K",
+      "mutualFriends": 2
+    },
+    {
+      "groupsName": "SEO Experts",
+      "members": "316",
+      "mutualFriends": 3
+    },
+    {
+      "groupsName": "Spoken English Special Groups",
+      "members": "9K",
+      "mutualFriends": 6
+    },
+  ],
+  "suggestForYou": [
+    {
+      "groupsName": "Graphic Design",
+      "members": "272K",
+      "mutualFriends": 12
+    },
+    {
+      "groupsName": "DEV Community",
+      "members": "15K",
+      "mutualFriends": 4
+    }
+  ]
+}
