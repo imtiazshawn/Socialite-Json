@@ -34,92 +34,92 @@
       "perDayPost": 31,
       "mutualFriend": "Jahid",
       "friendsJoined": 51
-    },
+    }
   ],
   "yourGroups": [
     {
-      "groupsName": "Graphic Design",
+      "groupName": "Graphic Design",
       "members": "98K"
     },
     {
-      "groupsName": "Mountain Riders",
+      "groupName": "Mountain Riders",
       "members": "45K"
     },
     {
-      "groupsName": "Coffee Addicts",
+      "groupName": "Coffee Addicts",
       "members": "51K"
     },
     {
-      "groupsName": "Bangladesh Natural Beauty",
+      "groupName": "Bangladesh Natural Beauty",
       "members": "98K"
     },
     {
-      "groupsName": "Property Rent",
+      "groupName": "Property Rent",
       "members": "2.1K"
     },
     {
-      "groupsName": "Architecture",
+      "groupName": "Architecture",
       "members": "22K"
     },
     {
-      "groupsName": "Chittagong Club",
+      "groupName": "Chittagong Club",
       "members": "21K"
     },
     {
-      "groupsName": "JavaScript Programmer",
+      "groupName": "JavaScript Programmer",
       "members": "12K"
     },
     {
-      "groupsName": "Web Developer Community",
+      "groupName": "Web Developer Community",
       "members": "22K"
     },
     {
-      "groupsName": "Vue JS Community",
+      "groupName": "Vue JS Community",
       "members": "942"
     }
   ],
-  suggestions: [
+  "suggestions": [
     {
-      "groupsName": "Web Developer Community of Bangladesh",
+      "groupName": "Web Developer Community of Bangladesh",
       "members": "22K",
       "mutualFriends": 9
     },
     {
-      "groupsName": "Vue JS Community of Bangladesh",
+      "groupName": "Vue JS Community of Bangladesh",
       "members": "1.1K",
       "mutualFriends": 2
     },
     {
-      "groupsName": "React JS Bangladesh",
+      "groupName": "React JS Bangladesh",
       "members": "3.2K",
       "mutualFriends": 6
     },
     {
-      "groupsName": "Digital Marketer",
+      "groupName": "Digital Marketer",
       "members": "2.6K",
       "mutualFriends": 2
     },
     {
-      "groupsName": "SEO Experts",
+      "groupName": "SEO Experts",
       "members": "316",
       "mutualFriends": 3
     },
     {
-      "groupsName": "Spoken English Special Groups",
+      "groupName": "Spoken English Special Groups",
       "members": "9K",
       "mutualFriends": 6
-    },
+    }
   ],
   "suggestForYou": [
     {
-      "groupsName": "Graphic Design",
+      "groupName": "Graphic Design",
       "members": "272K",
       "mutualFriends": 12
     },
     {
-      "groupsName": "DEV Community",
+      "groupName": "DEV Community",
       "members": "15K",
-      "mutualFriends": 4
+      "mutualFriends": 
     }
   ]
 }
