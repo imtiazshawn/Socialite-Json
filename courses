@@ -6,7 +6,7 @@
       "channel": "Adrian Mohani",
       "level": "Advance",
       "uploadTime": "12 weeks",
-      "views": "156.9K",
+      "enrolls": "156.9K",
       "type": "Unity"
     },
     {
@@ -16,7 +16,7 @@
       "channel": "Anoundi hellows",
       "level": "Begginer",
       "uploadTime": "3 weeks",
-      "views": "31.1K",
+      "enrolls": "31.1K",
       "type": "Developer"
     },
     {
@@ -26,7 +26,7 @@
       "channel": "Alia Dolgove",
       "level": "Advance",
       "uploadTime": "7 weeks",
-      "views": "56.3K",
+      "enrolls": "56.3K",
       "type": "Unity"
     },
     {
@@ -36,7 +36,7 @@
       "channel": "Adrian Mohani",
       "level": "Begginer",
       "uploadTime": "27 days",
-      "views": "855.2K",
+      "enrolls": "855.2K",
       "type": "Python"
     },
     {
@@ -46,7 +46,7 @@
       "channel": "Anoundi hellows",
       "level": "Advance",
       "uploadTime": "27 days",
-      "views": "855.2K",
+      "enrolls": "855.2K",
       "type": "Security"
     },
     {
@@ -56,7 +56,7 @@
       "channel": "Anoundi hellows",
       "level": "Advance",
       "uploadTime": "27 days",
-      "views": "855.2K",
+      "enrolls": "855.2K",
       "type": "Java"
     }
   ]
